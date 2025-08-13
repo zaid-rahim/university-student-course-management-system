@@ -61,15 +61,15 @@ Sample Output
   <br>
 ===== University Management System =====
   <br>
-1. Add Student
-2. Add Course
-3. Enroll Student in Course
-4. Assign Marks
-5. Record Attendance
-6. Display Students
-7. Display Courses
-8. Display Marks
-9. Display Attendance
+1. Add Student  <br>
+2. Add Course  <br>
+3. Enroll Student in Course  <br>
+4. Assign Marks  <br>
+5. Record Attendance  <br>
+6. Display Students  <br>
+7. Display Courses  <br>
+8. Display Marks  <br>
+9. Display Attendance  <br>
 0. Exit
      <br>
 Enter your choice: _
